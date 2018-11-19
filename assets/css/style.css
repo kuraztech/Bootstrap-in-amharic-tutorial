@@ -1,0 +1,147 @@
+ body {
+            font-family: Cambria;
+        }
+
+        .navbar-custom {
+            background-color: #00001a;
+            font-family: Cambria;
+            font-size: 18px;
+            padding: 10px;
+            border-radius: 0px;
+
+        }
+
+        .navbar-custom .navbar-nav>li>a {
+            color: white;
+            font-size: 20px;
+            margin-left: 13px;
+
+        }
+
+        .navbar-custom .navbar-nav>.active>a {
+
+            background: white;
+            border-radius: 5px;
+        }
+
+        .navbar-custom .navbar-nav>li>a:hover {
+            /* background-color: #82c434; */
+            color: gray;
+            background: white;
+            border-radius: 5px;
+        }
+
+        .navbar-custom .navbar-brand {
+            color: white;
+            font-size: 25px;
+        }
+
+        .navbar-custom .navbar-brand:hover {
+            color: gray;
+        }
+
+        .slider {
+            width: 100%;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        #titles {
+            font-size: 45px;
+            border-bottom-style: ridge;
+            font-weight: bold;
+            border-bottom-color: #82c434;
+        }
+
+        .column {
+            border-style: solid;
+            border-color: #999999;
+            border-width: 1px;
+            min-height: 350px;
+            margin-top: 60px;
+            border-radius: 5px;
+        }
+
+        .icons {
+            width: 130px;
+            font-size: 60px;
+            background-color: #d9d9d9;
+            padding: 5px 10px;
+            height: 110px;
+            color: #3333ff;
+            margin-top: -50px;
+            border-radius: 5px;
+        }
+
+
+
+        footer {
+
+            background-color: #00001a;
+            margin-top: 5px;
+            padding-bottom: 2%;
+            color: #FFF;
+
+        }
+
+        .fam {
+            padding: 20px;
+            font-size: 30px;
+            color: #FFF;
+        }
+
+        .icon i {
+            font-size: 20px;
+            height: 50px;
+            width: 50px;
+            background-color: #330000;
+            padding: 18px;
+            border-radius: 50%;
+        }
+
+        .icon i:hover {
+            background-color: black;
+            color: white;
+            opacity: 50%;
+        }
+
+
+        .myimg {
+            border-radius: 10px;
+
+
+        }
+
+        #fb {
+            background-color: #3333ff;
+        }
+
+        #yt {
+            background-color: #ff0000;
+        }
+
+        #ln {
+            background-color: #0066ff;
+        }
+
+        #ins {
+            background-color: #b300b3;
+        }
+
+        #fb:hover,
+        #yt:hover,
+        #ln:hover,
+        #ins:hover {
+            background-color: black;
+            color: white;
+        }
+
+        a {
+            color: white;
+
+        }
+
+        a:hover {
+            color: yellow;
+            text-decoration: none;
+        }
